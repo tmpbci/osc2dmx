@@ -1,6 +1,7 @@
 osc2dmx.pd
 by Sam Neurohack
 sam at lapaillasse dot org
+License information : CC BY NC SA
 
 Une passerelle très simple entre OSC et DMX en Pure Data (testée avec Enttec USB pro sous OS X).
 Par défaut le port utilisé en entrée est 9001, mais peut être changé. 
